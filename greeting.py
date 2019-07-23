@@ -1,0 +1,5 @@
+name = input ("What's your name? ")
+print ("Hello there, " + name.capitalize())
+lengh = len(name)
+lengh = str(lengh)
+print ("Your name is " + lengh + " letters long!")
